@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-28T02:03:28 GMT-04:00" name="Default suite" finished-at="2023-10-28T02:03:32 GMT-04:00" duration-ms="3598">
+    <groups>
+    </groups>
+    <test started-at="2023-10-28T02:03:28 GMT-04:00" name="Default test" finished-at="2023-10-28T02:03:32 GMT-04:00" duration-ms="3598">
+      <class name="com.ExcelRPorject3.Amazon.TestCasesImplementation">
+        <test-method is-config="true" signature="driverInitialisation()[pri:0, instance:com.ExcelRPorject3.Amazon.TestCasesImplementation@18271936]" started-at="2023-10-28T02:03:28 GMT-04:00" name="driverInitialisation" finished-at="2023-10-28T02:03:32 GMT-04:00" duration-ms="3450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverInitialisation -->
+        <test-method signature="homePage_Validation()[pri:1, instance:com.ExcelRPorject3.Amazon.TestCasesImplementation@18271936]" started-at="2023-10-28T02:03:32 GMT-04:00" name="homePage_Validation" finished-at="2023-10-28T02:03:32 GMT-04:00" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage_Validation -->
+      </class> <!-- com.ExcelRPorject3.Amazon.TestCasesImplementation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
